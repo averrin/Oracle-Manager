@@ -1,6 +1,6 @@
 # Oracle Manager
 
-Please visit Releases page for downloads.
+Please visit [Releases page](https://github.com/averrin/Oracle-Manager/releases) for downloads.
 
 This tool can help you to organize your oracles during a (solo) roleplaying game. It provides simple "roll table" oracles and basic organizational features.
 
