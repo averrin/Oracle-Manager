@@ -1,0 +1,7 @@
+*.pyc
+*.spec
+*.pickle
+join_images.py
+build
+dist
+__pycache__

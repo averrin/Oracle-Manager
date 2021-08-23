@@ -1,0 +1,20 @@
+{
+    "name": "Yes or No",
+    "source": "coin",
+    "banned_values": [],
+    "images": "images/yes_no/{id}.png",
+    "values": [
+        {
+            "name": "Yes",
+            "id": "head",
+            "description": "Yes",
+            "meaning": ""
+        },
+        {
+            "name": "No",
+            "id": "tail",
+            "description": "No",
+            "meaning": ""
+        }
+    ]
+}

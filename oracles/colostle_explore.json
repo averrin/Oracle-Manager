@@ -1,0 +1,322 @@
+{
+    "name": "Colostle Explore",
+    "source": "deck54",
+    "banned_values": [
+        "Jocker Black",
+        "Jocker Red"
+    ],
+    "values": [
+        {
+            "name": "2 of Hearts",
+            "id": "2 of Hearts",
+            "meaning": "Animal to hunt for food. The animals in the wilds are strange and unfamiliar; weird combinations of animals you might know, a boar with scales, or a fowl with 2 sets of wings. Adventuring is hungry work, you should make time to eat.",
+            "description": "Easy Prey"
+        },
+        {
+            "name": "3 of Hearts",
+            "id": "3 of Hearts",
+            "meaning": "CALLING - You come across someone who is key to your CALLING. Maybe they have a clue about what you're looking for, or they block your way to learning more...",
+            "description": "Friendly"
+        },
+        {
+            "name": "4 of Hearts",
+            "id": "4 of Hearts",
+            "meaning": "A person you meet asks you to find something for them. Maybe they have lost something, or they are too afraid to get it. Draw a card and check the ITEM table (page 30) to see how they will reward you if you do this for them. Use the other cards drawn in this EXPLORATION phase to inform where you might need to go. If you fight them, create a human opponent in your COMBAT phase.",
+            "description": "Trustworthy"
+        },
+        {
+            "name": "5 of Hearts",
+            "id": "5 of Hearts",
+            "meaning": "A dead body of another human. Who are they? What are they wearing? Either draw a card from the ITEM table to see if they have something on their person, OR draw from the EVENT table to see if the situation develops",
+            "description": "Seems safe"
+        },
+        {
+            "name": "6 of Hearts",
+            "id": "6 of Hearts",
+            "meaning": "Another adventurer like yourself, garbed in Rook Armour and armed as one of the classes. But what do they want? Are they here to help you take down a Rook? If so what do they want in return? Or are their intentions darker? If you fight them, create a human opponent in your COMBAT phase.",
+            "description": "Friendly"
+        },
+        {
+            "name": "7 of Hearts",
+            "id": "7 of Hearts",
+            "meaning": "A screech from the sky, the beat of heavy wings... gargoyles. You thought they were just stories you were told as a child. Apparently not! It grabs you by the shoulders and starts to carry you upward. It takes you to a whole new area.",
+            "description": "Taken to a new area"
+        },
+        {
+            "name": "8 of Hearts",
+            "id": "8 of Hearts",
+            "meaning": "You come across a small settlement, maybe a farming village, the buildings are all wooden and skins, like most small settlements. If it is SAFE, draw an ITEM card to see what can be found there. Otherwise, draw an EVENT card.",
+            "description": "Safe"
+        },
+        {
+            "name": "9 of Hearts",
+            "id": "9 of Hearts",
+            "meaning": "A massive skeleton. ‘It looks humanoid. But it can't be, can it?'",
+            "description": "Safe"
+        },
+        {
+            "name": "10 of Hearts",
+            "id": "10 of Hearts",
+            "meaning": "It's a camp of people. At least, they look like people; they walk on 2 legs and carry tools in 2 arms, but they're not.... human. Who are they? What do they want? ",
+            "description": "They don't notice you"
+        },
+        {
+            "name": "Jack of Hearts",
+            "id": "Jack of Hearts",
+            "meaning": "You find an item! Consult the ITEM table to discover what you find!",
+            "description": ""
+        },
+        {
+            "name": "Queen of Hearts",
+            "id": "Queen of Hearts",
+            "meaning": "Medium Rook",
+            "description": ""
+        },
+        {
+            "name": "King of Hearts",
+            "id": "King of Hearts",
+            "meaning": "Massive Rook ",
+            "description": ""
+        },
+        {
+            "name": "Ace of Hearts",
+            "id": "Ace of Hearts",
+            "meaning": "A stranger in unusual robes with a castle symbol on them. Perhaps he has clues about the nature of the Colostle, but these strangers are often unwilling to even be found, let alone be spoken to. You've heard tell of them before - a cult maybe? People don't talk about them kindly; strangers with strange practices... but they definitely know something. If you fight them, create a human opponent in your COMBAT phase.",
+            "description": "Unarmed"
+        },
+        {
+            "name": "2 of Diamonds",
+            "id": "2 of Diamonds",
+            "meaning": "Animal to hunt for food. The animals in the wilds are strange and unfamiliar; weird combinations of animals you might know, a boar with scales, or a fowl with 2 sets of wings. Adventuring is hungry work, you should make time to eat.",
+            "description": "Dangerous"
+        },
+        {
+            "name": "3 of Diamonds",
+            "id": "3 of Diamonds",
+            "meaning": "CALLING - You come across someone who is key to your CALLING. Maybe they have a clue about what you're looking for, or they block your way to learning more...",
+            "description": "Not friendly"
+        },
+        {
+            "name": "4 of Diamonds",
+            "id": "4 of Diamonds",
+            "meaning": "A person you meet asks you to find something for them. Maybe they have lost something, or they are too afraid to get it. Draw a card and check the ITEM table (page 30) to see how they will reward you if you do this for them. Use the other cards drawn in this EXPLORATION phase to inform where you might need to go. If you fight them, create a human opponent in your COMBAT phase.",
+            "description": "Untrustworthy"
+        },
+        {
+            "name": "5 of Diamonds",
+            "id": "5 of Diamonds",
+            "meaning": "A dead body of another human. Who are they? What are they wearing? Either draw a card from the ITEM table to see if they have something on their person, OR draw from the EVENT table to see if the situation develops",
+            "description": "Something off..."
+        },
+        {
+            "name": "6 of Diamonds",
+            "id": "6 of Diamonds",
+            "meaning": "Another adventurer like yourself, garbed in Rook Armour and armed as one of the classes. But what do they want? Are they here to help you take down a Rook? If so what do they want in return? Or are their intentions darker? If you fight them, create a human opponent in your COMBAT phase.Seems safe",
+            "description": "Not friendly"
+        },
+        {
+            "name": "7 of Diamonds",
+            "id": "7 of Diamonds",
+            "meaning": "A screech from the sky, the beat of heavy wings... gargoyles. You thought they were just stories you were told as a child. Apparently not! It grabs you by the shoulders and starts to carry you upward. It takes you up to its nest in the rafters of the ceiling. There is no fighting a Gargoyle...",
+            "description": "Taken to the rafters"
+        },
+        {
+            "name": "8 of Diamonds",
+            "id": "8 of Diamonds",
+            "meaning": "You come across a small settlement, maybe a farming village, the buildings are all wooden and skins, like most small settlements. If it is SAFE, draw an ITEM card to see what can be found there. Otherwise, draw an EVENT card.",
+            "description": "Event"
+        },
+        {
+            "name": "9 of Diamonds",
+            "id": "9 of Diamonds",
+            "meaning": "A massive skeleton. ‘It looks humanoid. But it can't be, can it?'",
+            "description": "Bandit camp"
+        },
+        {
+            "name": "10 of Diamonds",
+            "id": "10 of Diamonds",
+            "meaning": "It's a camp of people. At least, they look like people; they walk on 2 legs and carry tools in 2 arms, but they're not.... human. Who are they? What do they want? ",
+            "description": "You are captured and taken prisoner"
+        },
+        {
+            "name": "Jack of Diamonds",
+            "id": "Jack of Diamonds",
+            "meaning": "You find an item! Consult the ITEM table to discover what you find!",
+            "description": ""
+        },
+        {
+            "name": "Queen of Diamonds",
+            "id": "Queen of Diamonds",
+            "meaning": "Medium Rook",
+            "description": ""
+        },
+        {
+            "name": "King of Diamonds",
+            "id": "King of Diamonds",
+            "meaning": "Massive Rook ",
+            "description": ""
+        },
+        {
+            "name": "Ace of Diamonds",
+            "id": "Ace of Diamonds",
+            "meaning": "A stranger in unusual robes with a castle symbol on them. Perhaps he has clues about the nature of the Colostle, but these strangers are often unwilling to even be found, let alone be spoken to. You've heard tell of them before - a cult maybe? People don't talk about them kindly; strangers with strange practices... but they definitely know something. If you fight them, create a human opponent in your COMBAT phase.",
+            "description": "Armed"
+        },
+        {
+            "name": "2 of Clubs",
+            "id": "2 of Clubs",
+            "meaning": "A door. No ordinary door - a door between Rooms in the Colostle; it's impossible, huge beyond imagining, disappearing upward into the sky. If you hadn't seen it from a distance, you'd have thought it was just another wall. If it's RUINED maybe you can slip through a gap, but if it's INTACT you might have to find a mechanism to unlock or open it.",
+            "description": "Ruined"
+        },
+        {
+            "name": "3 of Clubs",
+            "id": "3 of Clubs",
+            "meaning": "A staircase leading to another floor in the Colostle. Massive - and a quest in itself to climb - it vanishes into mist and clouds. Each step is the height of a small house - who could have possibly built this? If this is not the first staircase you have come across, you can consult the BATTLEMENTS module to take you to the Colostle Rooftops. If it is the first staircase you have found, it takes you to another floor of the Colostle.",
+            "description": "Ruined"
+        },
+        {
+            "name": "4 of Clubs",
+            "id": "4 of Clubs",
+            "meaning": "Ruins of a people you've never heard of. Ruins of a people you've never heard of. The unfamiliar inscriptions and architecture suggest these people lived a very long time ago. Draw an EVENT card for something else to happen here.",
+            "description": "Mostly rubble"
+        },
+        {
+            "name": "5 of Clubs",
+            "id": "5 of Clubs",
+            "meaning": "A great, strange mechanism that seems to operate something in the Colostle. Pipes, gearwheels and levers; it seems oversized but you think you can operate it. If DAMAGED maybe you need to find something to repair it?",
+            "description": "Damaged"
+        },
+        {
+            "name": "6 of Clubs",
+            "id": "6 of Clubs",
+            "meaning": "A trap! Maybe a hunters trap, or a pit, or some old machinery. What do you do now?",
+            "description": "You are caught in it!"
+        },
+        {
+            "name": "7 of Clubs",
+            "id": "7 of Clubs",
+            "meaning": "A cave entrance. A darkness beckons beyond. Could it lead to deeper parts of the Colostle itself?",
+            "description": "Deep and hard to climb into"
+        },
+        {
+            "name": "8 of Clubs",
+            "id": "8 of Clubs",
+            "meaning": "The sea. A huge expanse of water stretches out before you. You stand on a rocky coast, or a beach, looking out. The water stretches to the horizon but beyond it you can see the tell-tale columns and ceiling supports of the Colostle; it's all still within a room. If you don't want to use the expansion module, consider this a coastal region of cliffs and beaches. Otherwise, consult the OCEANS module to explore the SEA!",
+            "description": "Stormy"
+        },
+        {
+            "name": "9 of Clubs",
+            "id": "9 of Clubs",
+            "meaning": "CALLING - You come across a place that is key to your CALLING. Maybe a building with a clue in it, or one of the locations you were looking for on your quest!",
+            "description": "A clue to the next step on your quest"
+        },
+        {
+            "name": "10 of Clubs",
+            "id": "10 of Clubs",
+            "meaning": "You come across a City; a huge settlement unlike anything you have ever seen before. Buildings constructed from Rook parts, seemingly motorised vehicles and mechanisms on every corner, and best of all, shops, culture, and hunters; a place of commerce, trade and meeting. If you don't want to use the expansion module, consider the city ABANDONED. Otherwise, consult the CITY module to discover this astonishing new location. ",
+            "description": "Abandoned"
+        },
+        {
+            "name": "Jack of Clubs",
+            "id": "Jack of Clubs",
+            "meaning": "You find an item! Consult the ITEM table to discover what you find!",
+            "description": ""
+        },
+        {
+            "name": "Queen of Clubs",
+            "id": "Queen of Clubs",
+            "meaning": "Medium Rook",
+            "description": ""
+        },
+        {
+            "name": "King of Clubs",
+            "id": "King of Clubs",
+            "meaning": "Massive Rook",
+            "description": ""
+        },
+        {
+            "name": "Ace of Clubs",
+            "id": "Ace of Clubs",
+            "meaning": "A large treasure. Maybe a chest or a valuable golden object, perched atop an altar. Whatever it is, it fills you with hope for your adventure. Add 1 point to either your EXPLORATION or COMBAT scores and come up with an item for your inventory.",
+            "description": "Evidence of attempted raids"
+        },
+        {
+            "name": "2 of Spades",
+            "id": "2 of Spades",
+            "meaning": "A door. No ordinary door - a door between Rooms in the Colostle; it's impossible, huge beyond imagining, disappearing upward into the sky. If you hadn't seen it from a distance, you'd have thought it was just another wall. If it's RUINED maybe you can slip through a gap, but if it's INTACT you might have to find a mechanism to unlock or open it.",
+            "description": "Intact/Locked"
+        },
+        {
+            "name": "3 of Spades",
+            "id": "3 of Spades",
+            "meaning": "A staircase leading to another floor in the Colostle. Massive - and a quest in itself to climb - it vanishes into mist and clouds. Each step is the height of a small house - who could have possibly built this? If this is not the first staircase you have come across, you can consult the BATTLEMENTS module to take you to the Colostle Rooftops. If it is the first staircase you have found, it takes you to another floor of the Colostle.",
+            "description": "Intact"
+        },
+        {
+            "name": "4 of Spades",
+            "id": "4 of Spades",
+            "meaning": "Ruins of a people you've never heard of. Ruins of a people you've never heard of. The unfamiliar inscriptions and architecture suggest these people lived a very long time ago. Draw an EVENT card for something else to happen here.",
+            "description": "Somewhat intact"
+        },
+        {
+            "name": "5 of Spades",
+            "id": "5 of Spades",
+            "meaning": "A great, strange mechanism that seems to operate something in the Colostle. Pipes, gearwheels and levers; it seems oversized but you think you can operate it. If DAMAGED maybe you need to find something to repair it?",
+            "description": "Functional"
+        },
+        {
+            "name": "6 of Spades",
+            "id": "6 of Spades",
+            "meaning": "A trap! Maybe a hunters trap, or a pit, or some old machinery. What do you do now?",
+            "description": "You avoid it!"
+        },
+        {
+            "name": "7 of Spades",
+            "id": "7 of Spades",
+            "meaning": "A cave entrance. A darkness beckons beyond. Could it lead to deeper parts of the Colostle itself?",
+            "description": "Flat and easily navigable"
+        },
+        {
+            "name": "8 of Spades",
+            "id": "8 of Spades",
+            "meaning": "The sea. A huge expanse of water stretches out before you. You stand on a rocky coast, or a beach, looking out. The water stretches to the horizon but beyond it you can see the tell-tale columns and ceiling supports of the Colostle; it's all still within a room. If you don't want to use the expansion module, consider this a coastal region of cliffs and beaches. Otherwise, consult the OCEANS module to explore the SEA!",
+            "description": "Calm"
+        },
+        {
+            "name": "9 of Spades",
+            "id": "9 of Spades",
+            "meaning": "CALLING - You come across a place that is key to your CALLING. Maybe a building with a clue in it, or one of the locations you were looking for on your quest!",
+            "description": "Something you were looking for"
+        },
+        {
+            "name": "10 of Spades",
+            "id": "10 of Spades",
+            "meaning": "You come across a City; a huge settlement unlike anything you have ever seen before. Buildings constructed from Rook parts, seemingly motorised vehicles and mechanisms on every corner, and best of all, shops, culture, and hunters; a place of commerce, trade and meeting. If you don't want to use the expansion module, consider the city ABANDONED. Otherwise, consult the CITY module to discover this astonishing new location. ",
+            "description": "Thriving"
+        },
+        {
+            "name": "Jack of Spades",
+            "id": "Jack of Spades",
+            "meaning": "You find an item! Consult the ITEM table to discover what you find!",
+            "description": ""
+        },
+        {
+            "name": "Queen of Spades",
+            "id": "Queen of Spades",
+            "meaning": "Medium Rook",
+            "description": ""
+        },
+        {
+            "name": "King of Spades",
+            "id": "King of Spades",
+            "meaning": "Massive Rook",
+            "description": ""
+        },
+        {
+            "name": "Ace of Spades",
+            "id": "Ace of Spades",
+            "meaning": "A large treasure. Maybe a chest or a valuable golden object, perched atop an altar. Whatever it is, it fills you with hope for your adventure. Add 1 point to either your EXPLORATION or COMBAT scores and come up with an item for your inventory.",
+            "description": "Untouched"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "source": "single_suit",
+    "name": "Colostle Items",
+    "banned_values": [],
+    "values": [
+        {
+            "name": "2",
+            "id": "2",
+            "description": "SUPPLIES",
+            "meaning": ""
+        },
+        {
+            "name": "3",
+            "id": "3",
+            "description": "KNOWLEDGE",
+            "meaning": ""
+        },
+        {
+            "name": "4",
+            "id": "4",
+            "description": "HERBS/INGREDIENTS to make a healing potion to heal one WOUND",
+            "meaning": ""
+        },
+        {
+            "name": "5",
+            "id": "5",
+            "description": "KEY",
+            "meaning": ""
+        },
+        {
+            "name": "6",
+            "id": "6",
+            "description": "VEHICLE",
+            "meaning": ""
+        },
+        {
+            "name": "7",
+            "id": "7",
+            "description": "A TAME ANIMAL",
+            "meaning": ""
+        },
+        {
+            "name": "8",
+            "id": "8",
+            "description": "POTION",
+            "meaning": ""
+        },
+        {
+            "name": "9",
+            "id": "9",
+            "description": "MACHINE PART",
+            "meaning": ""
+        },
+        {
+            "name": "10",
+            "id": "10",
+            "description": "MAP",
+            "meaning": ""
+        },
+        {
+            "name": "Jack",
+            "id": "Jack",
+            "description": "WEAPON",
+            "meaning": ""
+        },
+        {
+            "name": "Queen",
+            "id": "Queen",
+            "description": "ARTEFACT/IDOL",
+            "meaning": ""
+        },
+        {
+            "name": "King",
+            "id": "King",
+            "description": "2 TREASURES (FOR TRADING)",
+            "meaning": ""
+        },
+        {
+            "name": "Ace",
+            "id": "Ace",
+            "description": "TREASURE (FOR TRADING)",
+            "meaning": ""
+        }
+    ]
+}

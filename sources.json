@@ -1,0 +1,61 @@
+    {
+    "coin": {
+        "name": "coin",
+        "finite": false,
+        "custom_values": ["head", "tail"]
+    },
+
+    "d6": {
+        "name": "d6",
+        "finite": false,
+        "custom_values": [1, 2, 3, 4, 5, 6]
+    },
+
+    "single_suit": {
+        "name": "single_suit",
+        "images": "images/playing_cards/png/{name} of Hearts.png",
+        "finite": false,
+        "custom_values": ["2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King", "Ace"]
+    },
+    "black_red": {
+        "name": "single_suit",
+        "finite": false,
+        "suits": ["Black", "Red"],
+        "custom_values": ["2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King", "Ace"]
+    },
+    "suits": {
+        "name": "suits",
+        "finite": false,
+        "custom_values": ["Hearts", "Diamonds", "Clubs", "Spades"]
+    },
+
+    "deck36": {
+        "name": "deck36",
+        "finite": true,
+        "images": "images/playing_cards/png/{name}.png",
+        "suits": ["Hearts", "Diamonds", "Clubs", "Spades"],
+        "values": ["6", "7", "8", "9", "10", "Jack", "Queen", "King", "Ace"],
+        "template": "{value} of {suit}",
+        "custom_values": []
+    },
+
+    "deck54": {
+        "name": "deck54",
+        "images": "images/playing_cards/png/{name}.png",
+        "finite": true,
+        "suits": ["Hearts", "Diamonds", "Clubs", "Spades"],
+        "values": ["2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King", "Ace"],
+        "template": "{value} of {suit}",
+        "custom_values": ["Jocker Black", "Jocker Red"]
+    },
+
+    "tarot": {
+        "name": "tarot",
+        "finite": true,
+        "suits": ["Wands", "Cups", "Swords", "Pentacles"],
+        "values": ["Ace","Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Page", "Knight", "Queen", "King"],
+        "template": "{value} of {suit}",
+        "custom_values": ["The Fool", "The Magician", "The High Priestess", "The Empress", "The Emperor", "The Hierophant", "The Lovers", "The Chariot", "Fortitude",
+                          "The Hermit", "Wheel Of Fortune", "Justice", "The Hanged Man", "Death", "Temperance", "The Devil", "The Tower", "The Star", "The Moon", "The Sun", "Judjement", "The World"]
+    }
+}

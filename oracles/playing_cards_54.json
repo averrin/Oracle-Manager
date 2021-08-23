@@ -1,0 +1,331 @@
+{
+    "name": "Playing cards 54",
+    "source": "deck54",
+    "banned_values": [],
+    "values": [
+        {
+            "name": "2 of Hearts",
+            "id": "2 of Hearts",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "3 of Hearts",
+            "id": "3 of Hearts",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "4 of Hearts",
+            "id": "4 of Hearts",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "5 of Hearts",
+            "id": "5 of Hearts",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "6 of Hearts",
+            "id": "6 of Hearts",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "7 of Hearts",
+            "id": "7 of Hearts",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "8 of Hearts",
+            "id": "8 of Hearts",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "9 of Hearts",
+            "id": "9 of Hearts",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "10 of Hearts",
+            "id": "10 of Hearts",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "Jack of Hearts",
+            "id": "Jack of Hearts",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "Queen of Hearts",
+            "id": "Queen of Hearts",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "King of Hearts",
+            "id": "King of Hearts",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "Ace of Hearts",
+            "id": "Ace of Hearts",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "2 of Diamonds",
+            "id": "2 of Diamonds",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "3 of Diamonds",
+            "id": "3 of Diamonds",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "4 of Diamonds",
+            "id": "4 of Diamonds",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "5 of Diamonds",
+            "id": "5 of Diamonds",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "6 of Diamonds",
+            "id": "6 of Diamonds",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "7 of Diamonds",
+            "id": "7 of Diamonds",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "8 of Diamonds",
+            "id": "8 of Diamonds",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "9 of Diamonds",
+            "id": "9 of Diamonds",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "10 of Diamonds",
+            "id": "10 of Diamonds",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "Jack of Diamonds",
+            "id": "Jack of Diamonds",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "Queen of Diamonds",
+            "id": "Queen of Diamonds",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "King of Diamonds",
+            "id": "King of Diamonds",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "Ace of Diamonds",
+            "id": "Ace of Diamonds",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "2 of Clubs",
+            "id": "2 of Clubs",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "3 of Clubs",
+            "id": "3 of Clubs",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "4 of Clubs",
+            "id": "4 of Clubs",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "5 of Clubs",
+            "id": "5 of Clubs",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "6 of Clubs",
+            "id": "6 of Clubs",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "7 of Clubs",
+            "id": "7 of Clubs",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "8 of Clubs",
+            "id": "8 of Clubs",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "9 of Clubs",
+            "id": "9 of Clubs",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "10 of Clubs",
+            "id": "10 of Clubs",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "Jack of Clubs",
+            "id": "Jack of Clubs",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "Queen of Clubs",
+            "id": "Queen of Clubs",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "King of Clubs",
+            "id": "King of Clubs",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "Ace of Clubs",
+            "id": "Ace of Clubs",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "2 of Spades",
+            "id": "2 of Spades",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "3 of Spades",
+            "id": "3 of Spades",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "4 of Spades",
+            "id": "4 of Spades",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "5 of Spades",
+            "id": "5 of Spades",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "6 of Spades",
+            "id": "6 of Spades",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "7 of Spades",
+            "id": "7 of Spades",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "8 of Spades",
+            "id": "8 of Spades",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "9 of Spades",
+            "id": "9 of Spades",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "10 of Spades",
+            "id": "10 of Spades",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "Jack of Spades",
+            "id": "Jack of Spades",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "Queen of Spades",
+            "id": "Queen of Spades",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "King of Spades",
+            "id": "King of Spades",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "Ace of Spades",
+            "id": "Ace of Spades",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "Jocker Black",
+            "id": "Jocker Black",
+            "description": "",
+            "meaning": ""
+        },
+        {
+            "name": "Jocker Red",
+            "id": "Jocker Red",
+            "description": "",
+            "meaning": ""
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "source": "single_suit",
+    "name": "Colostle Events",
+    "banned_values": [],
+    "values": [
+        {
+            "name": "2",
+            "id": "2",
+            "description": "A STORM",
+            "meaning": ""
+        },
+        {
+            "name": "3",
+            "id": "3",
+            "description": "SOMETHING FALLS FROM THE 'CEILING'",
+            "meaning": ""
+        },
+        {
+            "name": "4",
+            "id": "4",
+            "description": "YOU FALL",
+            "meaning": ""
+        },
+        {
+            "name": "5",
+            "id": "5",
+            "description": "A LOUD NOISE",
+            "meaning": ""
+        },
+        {
+            "name": "6",
+            "id": "6",
+            "description": "A STRANGE FEELING",
+            "meaning": ""
+        },
+        {
+            "name": "7",
+            "id": "7",
+            "description": "SUN SETS OR RISES",
+            "meaning": ""
+        },
+        {
+            "name": "8",
+            "id": "8",
+            "description": "A FIRE STARTS",
+            "meaning": ""
+        },
+        {
+            "name": "9",
+            "id": "9",
+            "description": "SOMETHING BREAKS",
+            "meaning": ""
+        },
+        {
+            "name": "10",
+            "id": "10",
+            "description": "YOUR WAY IS BLOCKED",
+            "meaning": ""
+        },
+        {
+            "name": "Jack",
+            "id": "Jack",
+            "description": "YOU ARE SURROUNDED",
+            "meaning": ""
+        },
+        {
+            "name": "Queen",
+            "id": "Queen",
+            "description": "HUNGER SETS IN",
+            "meaning": ""
+        },
+        {
+            "name": "King",
+            "id": "King",
+            "description": "CREATE/REPAIR SOMETHING",
+            "meaning": ""
+        },
+        {
+            "name": "Ace",
+            "id": "Ace",
+            "description": "YOU MEET A FRIEND",
+            "meaning": ""
+        }
+    ]
+}
